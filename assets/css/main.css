@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'Source Code Pro';
+  src: url('/fonts/SourceCodePro.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Alata';
+  src: url('/fonts/Alata-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Alata';
+}
+
+p {
+  font-family: 'Source Code Pro';
+  font-size: 1.5rem;
+  font-weight: 900;
+  width: 65%;
+  
+}
+
+sup {
+  font-size: 12pt;
+}
+
+a {
+  color: deepskyblue;
+}
